@@ -10,7 +10,7 @@
 
    Date modified: 11/29/2022
 
-   IDE/Toool used: IntelliJ IDEA
+   IDE/Tool used: IntelliJ IDEA
 
    */
 
